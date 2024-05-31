@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://daspot.github.io/a/sitemap.html
+Sitemap: https://daspot.github.io/b/sitemap.html
+Sitemap: https://daspot.github.io/c/sitemap.html
+Sitemap: https://daspot.github.io/d/sitemap.html
